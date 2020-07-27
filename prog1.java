@@ -1,4 +1,6 @@
-/*Given a number n, the task is to find the even factor sum of a number.
+/*Amazon(level-easy)
+
+Given a number n, the task is to find the even factor sum of a number.
 INPUT : The first line consists of an integer T i.e. the number of test cases. First and last line of each test case consists of an integer n.
 OUTPUT : Print the sum of even factors of the given integer n.
 
